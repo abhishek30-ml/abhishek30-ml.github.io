@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Abhishek Sabnis
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Abhishek
+last_name: Sabnis
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,80 +23,86 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: MSc AI/ML Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Imperial College London
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:abhishek.sabnis30@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/abhishek30-ml
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/abhishek-sabnis-icl/
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/citations?user=alexjohnson
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Generative AI
+  - Physics inspired ML
+  - Explainable AI
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  #- area: PhD Computer Science (AI Focus)
+  #  institution: Stanford University
+  #  date_start: 2015-09-01
+  #  date_end: 2019-06-30
+  #  summary: |
+  #    Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+  #  button:
+  #    text: 'Read Thesis'
+  #    url: 'https://example.com/thesis.pdf'
+  - area: MS Computing (AI/ML)
+    institution: Imperial College London
+    date_start: 2024-09-28
+    date_end: 2025-09-28
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      Grade: Distinction
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+      Specialized in machine learning. Thesis on Reconstruction of Air Pollution fields using sparse observation data. Supervised by Dr. Sibo Cheng.
+  - area: BTech Mechanical Engineering
+    institution: Indian Institue of Technology Hyderabad (IITH)
+    date_start: 2018-07-01
+    date_end: 2022-05-15
     summary: |
-      GPA: 3.9/4.0
+      GPA: 9.64/10.0
 
-      Minored in Mathematics. President of AI Club.
+      Minored in AI. 
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: ML Engineer
+    company_name: NTT-AT
+    company_url: 'https://www.ntt-at.com/'
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2022-11-01
+    date_end: '2024-07-31'
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Contibuted to software development, Machine learning algorithm design and testing (Time series data), Data handling and visualization, Object Detection feature addition
+  - position: Research Intern
+    company_name: VIGIL Lab
+    company_url: 'https://ai.iith.ac.in/research-labs/index.html'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2020-08-01
+    date_end: 2021-08-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on Yoga Pose classification using GNN and Facial emotion recognition on videos.
+  - position: Summer Intern
+    company_name: NTT-AT
+    company_url: 'https://www.ntt-at.com/'
+    company_logo: ''
+    date_start: 2021-05-05
+    date_end: 2021-07-05
+    summary: |
+      Implemented detection and classification of Covid-19 abnormalities in X-ray image
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -107,11 +113,11 @@ skills:
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: AI in images, time-series
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: AWS, Docker, Kubernetes
         description: ''
         percent: 85
         icon: cloud
@@ -119,15 +125,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Hiking in the mountains
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Street photography
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: camera
+      - name: Reading fiction
         description: ''
         percent: 70
         icon: book-open
@@ -135,35 +141,43 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Hindi
+    percent: 100
+  - name: Marathi
+    percent: 100
+  - name: Telugu
+    percent: 80
+  - name: Japanese
+    percent: 30
+  - name: French
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Institute Silver Medal
+    url: 
+    date: '2022-08-20'
+    awarder: IITH
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+      Awarded for highest GPA in Mechanical Engineering
+  - title: KVPY Scholor
+    url: 
+    date: '2018-03-15'
+    awarder: Indian Institute of Science
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Secured Fellowship in Basic Sciences, funded by Dept. of Science and Technology, India
+  #- title: Outstanding PhD Thesis
+  #  url: https://www.stanford.edu/
+  #  date: '2019-06-30'
+  #  awarder: Stanford University
+  #  icon: hero/academic-cap
+  #  summary: |
+  #    Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a Masters student in AI/ML at Imperial College London with specialization in Deep Learning and Generative AI. Previously worked 2 years in Tokyo at NTT-AT in telecom industry creating proprietary algorithms for anamoly detection (time series) and failure routing (graphs). Passionate about applying safe-ML to high impact areas such as environmental systems and healthcare while pushing the boundaries of AI. Outside of work, I enjoy hiking in mountains, street photography and reading fiction.
